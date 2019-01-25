@@ -25,3 +25,4 @@ coverage
 /config/application.yml
 
 public/assets/
+/coverage
